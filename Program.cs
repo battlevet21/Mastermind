@@ -65,6 +65,15 @@ namespace Mastermind_Game
             }
         }
     }
+
+    class Test
+    {
+        public void Test()
+        {
+            Console.WriteLine("This class is a test class for azure purposes");
+        }
+        
+    }
 }
 
 
